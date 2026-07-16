@@ -2,7 +2,6 @@
 
 End-to-end A/B testing project analyzing whether a redesigned website increases user conversion, using Python for statistical testing and Tableau for stakeholder-facing visualization.
 
-**[📄 Read the full case study (PDF)](./AB_Test_Case_Study.pdf)** | **[📊 View the interactive Tableau dashboard](#)**
 
 ---
 
