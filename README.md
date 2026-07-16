@@ -58,4 +58,4 @@ Users were randomly split into a control group (current design) and a treatment 
 
 ---
 
-**Author:** [Your Name] · [LinkedIn](#) · [Portfolio](#)
+**Author:** Jay
